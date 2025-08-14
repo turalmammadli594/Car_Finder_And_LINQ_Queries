@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tural\\source\\repos\\Car_Finder\\Car_Finder\\Car_Finder.csproj",
+      "projectUniqueName": "C:\\Users\\tural\\source\\repos\\Book_Library\\Car_Finder\\Car_Finder.csproj",
       "projectName": "Car_Finder",
-      "projectPath": "C:\\Users\\tural\\source\\repos\\Car_Finder\\Car_Finder\\Car_Finder.csproj",
+      "projectPath": "C:\\Users\\tural\\source\\repos\\Book_Library\\Car_Finder\\Car_Finder.csproj",
       "packagesPath": "C:\\Users\\tural\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tural\\source\\repos\\Car_Finder\\Car_Finder\\obj\\",
+      "outputPath": "C:\\Users\\tural\\source\\repos\\Book_Library\\Car_Finder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
