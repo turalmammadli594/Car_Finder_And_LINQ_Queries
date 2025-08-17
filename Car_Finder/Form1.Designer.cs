@@ -192,7 +192,7 @@
             cmdMetodList.BackColor = Color.White;
             cmdMetodList.DropDownStyle = ComboBoxStyle.DropDownList;
             cmdMetodList.FormattingEnabled = true;
-            cmdMetodList.Items.AddRange(new object[] { "Where", "Any", "All", "First", "FirstOrDefault", "Last", "LastOrDefault", "Single", "SingleOrDefault", "Count", "Max", "Min", "Sum", "Average", "Distinct", "OrderBy", "OrderByDescending", "GroupBy", "Take", "Skip", "TakeWhile", "SkipWhile", "", "Select", "", "Join", "", "GroupJoin", "", "SelectMany", "", "", "Contains", "", "", "", "", "", "Aggregate", "", "Zip", "", "DefaultIfEmpty", "", "ElementAt", "", "ElementAtOrDefault", "", "Reverse", "", "Except", "", "Intersect", "", "Union", "", "Range", "", "Repeat", "", "", "", "Cast", "", "OfType" });
+            cmdMetodList.Items.AddRange(new object[] { "Where", "Any", "All", "First", "FirstOrDefault", "Last", "LastOrDefault", "Single", "SingleOrDefault", "Count", "Max", "Min", "Sum", "Average", "Distinct", "OrderBy", "OrderByDescending", "GroupBy", "Take", "Skip", "TakeWhile", "SkipWhile" });
             cmdMetodList.Location = new Point(195, 61);
             cmdMetodList.Name = "cmdMetodList";
             cmdMetodList.Size = new Size(179, 29);
